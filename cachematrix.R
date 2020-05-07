@@ -1,7 +1,4 @@
-## Put comments here that give an overall description of what your
-## functions do
-
-## Write a short comment describing this function
+## Function takes up a matrix and find its inverse in  cache and if its available then prints it otherwise execute it and then print it
 
 makeCacheMatrix <- function(x = matrix()) {
     i <- NULL
